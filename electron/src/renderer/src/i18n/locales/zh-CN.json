@@ -4584,5 +4584,13 @@
     "check_failed": "无法完成对 {{host}} 的检查。详情请查看安装日志。",
     "check_unavailable": "目前还没有可供检查的软件包下载。",
     "connection_error": "软件包下载连接失败。请继续安装以重试；已完成的下载会保留。"
+  },
+  "sallyStudio": {
+    "title": "VoiceStudio · Sally",
+    "subtitle": "为客户提供本地语音、听写和音频。",
+    "read_aloud": "朗读",
+    "read_hint": "粘贴或导入文本，选择声音，然后生成并播放音频。较长的文档请使用故事功能。",
+    "save_mp3": "保存 MP3",
+    "voiceover": "创建配音"
   }
 }

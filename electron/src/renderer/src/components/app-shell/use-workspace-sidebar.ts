@@ -22,7 +22,7 @@ const SECONDARY_ROUTES = new Set([
   '/pro',
 ]);
 // Voice-section routes whose context pane is the shared library (ContextSidebar).
-export const LIBRARY_ROUTES = new Set(['/', '/clone']);
+export const LIBRARY_ROUTES = new Set(['/about', '/clone', '/listen']);
 // Rail + context panel, as in VS Code, Slack and Linear: a section that brings its
 // own pane keeps navigation to an icon rail so the window never shows two wide
 // sidebars. The full navigation stays one click (or the Keep-expanded

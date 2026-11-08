@@ -205,6 +205,13 @@ export function TakeDetails({ item }: { item: HistoryItem }) {
         {item.audio_path && (
           <SaveAudioButton
             url={audioUrl(item.audio_path)}
+            suggestedName={`voicestudio-${item.id}.mp3`}
+            format="mp3"
+          />
+        )}
+        {item.audio_path && (
+          <SaveAudioButton
+            url={audioUrl(item.audio_path)}
             suggestedName={`voicestudio-${item.id}.wav`}
             iconOnly
           />

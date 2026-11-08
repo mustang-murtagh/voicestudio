@@ -4612,5 +4612,13 @@
     "check_failed": "Nie udało się ukończyć testu {{host}}. Szczegóły są w dzienniku konfiguracji.",
     "check_unavailable": "Nie ma jeszcze pobierania pakietu, które można sprawdzić.",
     "connection_error": "Połączenie pobierania pakietu nie powiodło się. Wznów, aby spróbować ponownie; ukończone pobrania zostają zachowane."
+  },
+  "sallyStudio": {
+    "title": "VoiceStudio · Sally",
+    "subtitle": "Lokalne głosy, dyktowanie i nagrania dla Twoich klientów.",
+    "read_aloud": "Czytaj na głos",
+    "read_hint": "Wklej lub zaimportuj tekst, wybierz głos, a następnie wygeneruj i odtwórz dźwięk. Do dłuższych dokumentów użyj Opowieści.",
+    "save_mp3": "Zapisz MP3",
+    "voiceover": "Utwórz narrację"
   }
 }

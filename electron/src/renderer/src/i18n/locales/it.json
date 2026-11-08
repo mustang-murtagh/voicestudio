@@ -4586,5 +4586,13 @@
     "check_failed": "Impossibile completare la verifica di {{host}}. I dettagli sono nel registro di configurazione.",
     "check_unavailable": "Non è ancora disponibile un download di pacchetto da verificare.",
     "connection_error": "La connessione di download del pacchetto non è riuscita. Riprendi per riprovare; i download completati vengono conservati."
+  },
+  "sallyStudio": {
+    "title": "VoiceStudio · Sally",
+    "subtitle": "Voci locali, dettatura e audio per i tuoi clienti.",
+    "read_aloud": "Leggi ad alta voce",
+    "read_hint": "Incolla o importa il testo, scegli una voce, poi genera e ascolta l’audio. Usa Storie per i documenti più lunghi.",
+    "save_mp3": "Salva MP3",
+    "voiceover": "Crea una voce fuori campo"
   }
 }

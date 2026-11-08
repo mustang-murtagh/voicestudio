@@ -4584,5 +4584,13 @@
     "check_failed": "De controle van {{host}} kon niet worden voltooid. Details staan in het installatielogboek.",
     "check_unavailable": "Er is nog geen pakketdownload beschikbaar om te controleren.",
     "connection_error": "De verbinding voor de pakketdownload is mislukt. Hervat om opnieuw te proberen; voltooide downloads blijven bewaard."
+  },
+  "sallyStudio": {
+    "title": "VoiceStudio · Sally",
+    "subtitle": "Lokale stemmen, dicteren en audio voor je klanten.",
+    "read_aloud": "Voorlezen",
+    "read_hint": "Plak of importeer tekst, kies een stem en genereer en beluister de audio. Gebruik Verhalen voor langere documenten.",
+    "save_mp3": "MP3 opslaan",
+    "voiceover": "Een voice-over maken"
   }
 }

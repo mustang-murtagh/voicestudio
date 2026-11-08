@@ -4584,5 +4584,13 @@
     "check_failed": "無法完成對 {{host}} 的檢查。詳情請查看安裝記錄。",
     "check_unavailable": "目前還沒有可供檢查的套件下載。",
     "connection_error": "套件下載連線失敗。請繼續安裝以重試；已完成的下載會保留。"
+  },
+  "sallyStudio": {
+    "title": "VoiceStudio · Sally",
+    "subtitle": "為客戶提供本機語音、聽寫和音訊。",
+    "read_aloud": "朗讀",
+    "read_hint": "貼上或匯入文字，選擇聲音，然後產生並播放音訊。較長的文件請使用故事功能。",
+    "save_mp3": "儲存 MP3",
+    "voiceover": "建立配音"
   }
 }

@@ -4586,5 +4586,13 @@
     "check_failed": "Impossible de terminer le test de {{host}}. Les détails figurent dans le journal d’installation.",
     "check_unavailable": "Aucun téléchargement de paquet n’est encore disponible pour le test.",
     "connection_error": "La connexion de téléchargement du paquet a échoué. Reprenez pour réessayer ; les téléchargements terminés sont conservés."
+  },
+  "sallyStudio": {
+    "title": "VoiceStudio · Sally",
+    "subtitle": "Voix locales, dictée et audio pour vos clients.",
+    "read_aloud": "Lire à voix haute",
+    "read_hint": "Collez ou importez du texte, choisissez une voix, puis générez et écoutez le son. Utilisez Histoires pour les documents longs.",
+    "save_mp3": "Enregistrer en MP3",
+    "voiceover": "Créer une voix off"
   }
 }

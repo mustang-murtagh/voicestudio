@@ -46,7 +46,7 @@ it('does not carry a forced expansion to another route', () => {
   expect(hook.result.current.compact).toBe(true);
 });
 
-it.each(['/clone', '/', '/design', '/settings/appearance'])(
+it.each(['/clone', '/listen', '/about', '/design', '/settings/appearance'])(
   'uses the icon rail beside the pane of %s on a wide window',
   (path) => {
     route.pathname = path;
@@ -56,6 +56,11 @@ it.each(['/clone', '/', '/design', '/settings/appearance'])(
     expect(hook.result.current.compact).toBe(true);
   },
 );
+
+it('keeps the task home free of a second sidebar', () => {
+  route.pathname = '/';
+  expect(state().result.current.secondaryWorkspace).toBe(false);
+});
 
 it.each(['/integrations', '/integrations/n8n', '/pro', '/workflows', '/clone'])(
   'keeps one navigation layout on %s',

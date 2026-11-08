@@ -4584,5 +4584,13 @@
     "check_failed": "{{host}} kontrolü tamamlanamadı. Ayrıntılar kurulum günlüğünde.",
     "check_unavailable": "Henüz kontrol edilecek bir paket indirmesi yok.",
     "connection_error": "Paket indirme bağlantısı başarısız oldu. Yeniden denemek için sürdürün; tamamlanan indirmeler korunur."
+  },
+  "sallyStudio": {
+    "title": "VoiceStudio · Sally",
+    "subtitle": "Müşterileriniz için yerel sesler, dikte ve ses kayıtları.",
+    "read_aloud": "Sesli oku",
+    "read_hint": "Metni yapıştırın veya içe aktarın, bir ses seçin, ardından sesi oluşturup dinleyin. Uzun belgeler için Hikâyeler kullanın.",
+    "save_mp3": "MP3 kaydet",
+    "voiceover": "Seslendirme oluştur"
   }
 }

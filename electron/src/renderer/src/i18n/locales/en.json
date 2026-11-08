@@ -4584,5 +4584,13 @@
     "check_failed": "Could not complete the check for {{host}}. Details are in the setup log.",
     "check_unavailable": "No package download is available to check yet.",
     "connection_error": "The package download connection failed. Resume to try again; completed downloads are kept."
+  },
+  "sallyStudio": {
+    "title": "VoiceStudio · Sally",
+    "subtitle": "Local voices, dictation and audio for your clients.",
+    "read_aloud": "Read aloud",
+    "read_hint": "Paste or import text, choose a voice, then generate and play the audio. Use Stories for longer documents.",
+    "save_mp3": "Save MP3",
+    "voiceover": "Create a voiceover"
   }
 }

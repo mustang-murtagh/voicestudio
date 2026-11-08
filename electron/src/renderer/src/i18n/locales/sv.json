@@ -4584,5 +4584,13 @@
     "check_failed": "Kontrollen av {{host}} kunde inte slutföras. Detaljer finns i installationsloggen.",
     "check_unavailable": "Det finns ännu ingen paketnedladdning att kontrollera.",
     "connection_error": "Anslutningen för paketnedladdningen misslyckades. Återuppta för att försöka igen; slutförda nedladdningar sparas."
+  },
+  "sallyStudio": {
+    "title": "VoiceStudio · Sally",
+    "subtitle": "Lokala röster, diktering och ljud för dina kunder.",
+    "read_aloud": "Läs upp",
+    "read_hint": "Klistra in eller importera text, välj en röst och skapa och spela upp ljudet. Använd Berättelser för längre dokument.",
+    "save_mp3": "Spara MP3",
+    "voiceover": "Skapa en berättarröst"
   }
 }

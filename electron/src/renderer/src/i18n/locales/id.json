@@ -4584,5 +4584,13 @@
     "check_failed": "Pemeriksaan {{host}} tidak dapat diselesaikan. Detail ada di log penyiapan.",
     "check_unavailable": "Belum ada unduhan paket yang dapat diperiksa.",
     "connection_error": "Koneksi unduhan paket gagal. Lanjutkan untuk mencoba lagi; unduhan yang selesai tetap disimpan."
+  },
+  "sallyStudio": {
+    "title": "VoiceStudio · Sally",
+    "subtitle": "Suara lokal, dikte, dan audio untuk klien Anda.",
+    "read_aloud": "Baca nyaring",
+    "read_hint": "Tempel atau impor teks, pilih suara, lalu buat dan putar audio. Gunakan Cerita untuk dokumen yang lebih panjang.",
+    "save_mp3": "Simpan MP3",
+    "voiceover": "Buat sulih suara"
   }
 }
