@@ -1,0 +1,44 @@
+{
+  "chromeHint": {
+    "message": "Öppna ett nyhetsbrev, ett Claude-svar eller en artikel i Chrome. Lyssna med VoiceStudio Reader utan att kopiera."
+  },
+  "localOnly": {
+    "message": "Använder röster på enheten. Texten stannar i den här webbläsaren."
+  },
+  "readSelection": {
+    "message": "Läs markeringen i VoiceStudio"
+  },
+  "readerEmpty": {
+    "message": "Ingen läsbar text hittades. Öppna ett mejl eller en artikel, eller markera det du vill höra."
+  },
+  "readerFailed": {
+    "message": "Det går inte att läsa fliken. Prova en vanlig webbsida eller markera text. Interna Chrome-sidor stöds inte."
+  },
+  "noLocalVoice": {
+    "message": "Inga lokala röster hittades. Installera en röst i operativsystemets talinställningar."
+  },
+  "readAloud": {
+    "message": "Läs upp"
+  },
+  "script": {
+    "message": "Manus"
+  },
+  "voice": {
+    "message": "Röst"
+  },
+  "speed": {
+    "message": "Hastighet"
+  },
+  "search": {
+    "message": "Sök..."
+  },
+  "pause": {
+    "message": "Pausa"
+  },
+  "resume": {
+    "message": "Återuppta"
+  },
+  "stop": {
+    "message": "Sluta"
+  }
+}

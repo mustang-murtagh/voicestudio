@@ -14,7 +14,7 @@
   "scripts": {
     "dev": "node scripts/dev.mjs",
     "dev:software-compositing": "node scripts/dev.mjs -- --disable-gpu-compositing",
-    "locale:check": "node tests/locale-encoding.mjs && node tests/locale-source-keys.mjs && node tests/locale-coverage.mjs",
+    "locale:check": "node tests/locale-encoding.mjs && node tests/locale-source-keys.mjs && node tests/locale-coverage.mjs && node scripts/export-browser-reader-locales.mjs --check",
     "build": "bun run locale:check && electron-vite build",
     "build:web": "bun run locale:check && vite build --config vite.web.config.ts",
     "dev:web": "vite --config vite.web.config.ts",
@@ -25,7 +25,7 @@
     "lint:fix": "vp lint --fix",
     "format": "vp fmt",
     "format:check": "vp fmt --check",
-    "test": "bun run locale:check && vp test --run && vp test --run --config vite.shared.config.ts",
+    "test": "bun run locale:check && node --test browser-reader/test/*.test.mjs && vp test --run && vp test --run --config vite.shared.config.ts",
     "test:watch": "vp test",
     "test:desktop-ui": "node tests/local-first.test.mjs && node tests/fake-health-backend.test.mjs && node tests/desktop-harness-ports.test.mjs && node tests/desktop-harness-exit.test.mjs && node tests/desktop-ui.test.mjs",
     "smoke:server": "vite --config tests/renderer-smoke.vite.config.mjs",

@@ -4584,5 +4584,20 @@
     "check_failed": "De controle van {{host}} kon niet worden voltooid. Details staan in het installatielogboek.",
     "check_unavailable": "Er is nog geen pakketdownload beschikbaar om te controleren.",
     "connection_error": "De verbinding voor de pakketdownload is mislukt. Hervat om opnieuw te proberen; voltooide downloads blijven bewaard."
+  },
+  "sallyStudio": {
+    "title": "VoiceStudio · Sally",
+    "subtitle": "Lokale stemmen, dicteren en audio voor je klanten.",
+    "read_aloud": "Voorlezen",
+    "read_hint": "Plak of importeer tekst, kies een stem en genereer en beluister de audio. Gebruik Verhalen voor langere documenten.",
+    "save_mp3": "MP3 opslaan",
+    "voiceover": "Een voice-over maken",
+    "reader_title": "VoiceStudio Reader",
+    "chrome_hint": "Open een nieuwsbrief, Claude-antwoord of artikel in Chrome. Luister met VoiceStudio Reader zonder te kopiëren.",
+    "reader_local": "Gebruikt stemmen op je apparaat. Je tekst blijft in deze browser.",
+    "reader_selection": "Selectie voorlezen in VoiceStudio",
+    "reader_empty": "Geen leesbare tekst gevonden. Open een e-mail of artikel, of selecteer de passage die je wilt horen.",
+    "reader_failed": "Dit tabblad kan niet worden gelezen. Probeer een gewone webpagina of selecteer tekst. Interne Chrome-pagina’s worden niet ondersteund.",
+    "reader_no_voice": "Geen lokale stemmen gevonden. Installeer een stem via de spraakinstellingen van je besturingssysteem."
   }
 }

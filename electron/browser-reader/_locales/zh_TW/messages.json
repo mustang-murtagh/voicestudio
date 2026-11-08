@@ -1,0 +1,44 @@
+{
+  "chromeHint": {
+    "message": "在 Chrome 中開啟電子報、Claude 回覆或文章，不需複製即可使用 VoiceStudio Reader 聆聽。"
+  },
+  "localOnly": {
+    "message": "使用裝置本機語音。文字只保留在此瀏覽器中。"
+  },
+  "readSelection": {
+    "message": "在 VoiceStudio 中朗讀選取內容"
+  },
+  "readerEmpty": {
+    "message": "找不到可朗讀的文字。請開啟郵件或文章，或選取要聆聽的段落。"
+  },
+  "readerFailed": {
+    "message": "無法朗讀此分頁。請嘗試一般網頁或選取一段文字。不支援 Chrome 內部頁面。"
+  },
+  "noLocalVoice": {
+    "message": "找不到裝置本機語音。請在作業系統的語音設定中安裝聲音。"
+  },
+  "readAloud": {
+    "message": "朗讀"
+  },
+  "script": {
+    "message": "文稿"
+  },
+  "voice": {
+    "message": "聲音"
+  },
+  "speed": {
+    "message": "速度"
+  },
+  "search": {
+    "message": "搜尋..."
+  },
+  "pause": {
+    "message": "暫停"
+  },
+  "resume": {
+    "message": "繼續"
+  },
+  "stop": {
+    "message": "停止"
+  }
+}

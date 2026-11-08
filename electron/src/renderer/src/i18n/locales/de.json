@@ -4584,5 +4584,20 @@
     "check_failed": "Die Prüfung für {{host}} konnte nicht abgeschlossen werden. Details stehen im Einrichtungsprotokoll.",
     "check_unavailable": "Es ist noch kein Paketdownload zum Prüfen verfügbar.",
     "connection_error": "Die Verbindung zum Paketdownload ist fehlgeschlagen. Zum erneuten Versuch fortsetzen; abgeschlossene Downloads bleiben erhalten."
+  },
+  "sallyStudio": {
+    "title": "VoiceStudio · Sally",
+    "subtitle": "Lokale Stimmen, Diktate und Audio für deine Kunden.",
+    "read_aloud": "Vorlesen",
+    "read_hint": "Text einfügen oder importieren, Stimme auswählen, dann Audio erzeugen und abspielen. Für längere Dokumente nutze Geschichten.",
+    "save_mp3": "MP3 speichern",
+    "voiceover": "Voiceover erstellen",
+    "reader_title": "VoiceStudio Reader",
+    "chrome_hint": "Öffne einen Newsletter, eine Claude-Antwort oder einen Artikel in Chrome. Höre ihn mit VoiceStudio Reader ohne Kopieren an.",
+    "reader_local": "Nutzt Stimmen auf deinem Gerät. Dein Text bleibt in diesem Browser.",
+    "reader_selection": "Auswahl in VoiceStudio vorlesen",
+    "reader_empty": "Kein lesbarer Text gefunden. Öffne eine E-Mail oder einen Artikel oder markiere die gewünschte Passage.",
+    "reader_failed": "Dieser Tab kann nicht gelesen werden. Versuche eine normale Webseite oder markiere Text. Interne Chrome-Seiten werden nicht unterstützt.",
+    "reader_no_voice": "Keine lokalen Stimmen gefunden. Installiere eine Stimme in den Spracheinstellungen deines Betriebssystems."
   }
 }

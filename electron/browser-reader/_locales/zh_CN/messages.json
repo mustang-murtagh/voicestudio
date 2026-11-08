@@ -1,0 +1,44 @@
+{
+  "chromeHint": {
+    "message": "在 Chrome 中打开邮件简报、Claude 回复或文章，无需复制即可使用 VoiceStudio Reader 收听。"
+  },
+  "localOnly": {
+    "message": "使用设备本地语音。文本仅保留在此浏览器中。"
+  },
+  "readSelection": {
+    "message": "在 VoiceStudio 中朗读选中内容"
+  },
+  "readerEmpty": {
+    "message": "未找到可朗读的文本。请打开邮件或文章，或选中要收听的段落。"
+  },
+  "readerFailed": {
+    "message": "无法朗读此标签页。请尝试普通网页或选中一段文字。不支持 Chrome 内部页面。"
+  },
+  "noLocalVoice": {
+    "message": "未找到设备本地语音。请在操作系统的语音设置中安装声音。"
+  },
+  "readAloud": {
+    "message": "朗读"
+  },
+  "script": {
+    "message": "文稿"
+  },
+  "voice": {
+    "message": "声音"
+  },
+  "speed": {
+    "message": "速度"
+  },
+  "search": {
+    "message": "搜索..."
+  },
+  "pause": {
+    "message": "暂停"
+  },
+  "resume": {
+    "message": "恢复"
+  },
+  "stop": {
+    "message": "停止"
+  }
+}

@@ -59,7 +59,19 @@ export const rootRoute = createRootRoute({ component: AppShell });
 export const indexRoute = createRoute({
   getParentRoute: () => rootRoute,
   path: '/',
+  component: lazyRouteComponent(() => import('@/features/home/sally-studio'), 'SallyStudio'),
+});
+
+export const aboutRoute = createRoute({
+  getParentRoute: () => rootRoute,
+  path: '/about',
   component: HomePage,
+});
+
+export const listenRoute = createRoute({
+  getParentRoute: () => rootRoute,
+  path: '/listen',
+  component: lazyRouteComponent(() => import('@/features/home/listen-page'), 'ListenPage'),
 });
 
 export const savedVoicesRoute = createRoute({
@@ -275,6 +287,8 @@ export const diagnosticsRoute = createRoute({
   component: SettingsPage,
 });
 export const routeTree = rootRoute.addChildren([
+  aboutRoute,
+  listenRoute,
   diagnosticsRoute,
   openApiRoute,
   updatesRoute,

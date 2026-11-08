@@ -33,7 +33,7 @@ import { SynthesisDock } from '@/components/synthesis-dock';
 const DEMO_PROFILE_ID = 'demo0001';
 const DEMO_PROMPTED_KEY = 'omnivoice.demoClonePrompted';
 
-export function ClonePage() {
+export function ClonePage({ reading = false }: { reading?: boolean } = {}) {
   const { t } = useTranslation();
   const navigate = useNavigate();
   const selectedTake = useSelectedTake();
@@ -154,7 +154,9 @@ export function ClonePage() {
           >
             <div className="flex min-w-0 items-center gap-2">
               <SidebarToggle />
-              <h1 className="truncate text-sm font-medium">{t('clone.title')}</h1>
+              <h1 className="truncate text-sm font-medium">
+                {t(reading ? 'sallyStudio.read_aloud' : 'clone.title')}
+              </h1>
             </div>
             <div className="flex shrink-0 items-center gap-1">
               <SupportShortcut />
@@ -248,6 +250,11 @@ export function ClonePage() {
                     {t('cloneFlow.voice_sample')}
                   </Button>
                 </div>
+                {reading && (
+                  <p className="mb-4 text-sm leading-6 text-muted-foreground">
+                    {t('sallyStudio.read_hint')}
+                  </p>
+                )}
                 <ScriptPanel
                   voiceName={selectedVoice?.name}
                   coachmark={showDemoCoachmark ? t('demo.clone_coachmark') : undefined}

@@ -4584,5 +4584,20 @@
     "check_failed": "Không thể hoàn tất kiểm tra {{host}}. Chi tiết có trong nhật ký thiết lập.",
     "check_unavailable": "Chưa có lượt tải gói nào để kiểm tra.",
     "connection_error": "Kết nối tải gói thất bại. Tiếp tục để thử lại; các bản tải xuống hoàn tất được giữ nguyên."
+  },
+  "sallyStudio": {
+    "title": "VoiceStudio · Sally",
+    "subtitle": "Giọng nói cục bộ, đọc chính tả và âm thanh cho khách hàng của bạn.",
+    "read_aloud": "Đọc thành tiếng",
+    "read_hint": "Dán hoặc nhập văn bản, chọn giọng nói, rồi tạo và phát âm thanh. Dùng Truyện cho tài liệu dài hơn.",
+    "save_mp3": "Lưu MP3",
+    "voiceover": "Tạo lời thuyết minh",
+    "reader_title": "VoiceStudio Reader",
+    "chrome_hint": "Mở bản tin, câu trả lời của Claude hoặc bài viết trong Chrome. Nghe bằng VoiceStudio Reader mà không cần sao chép.",
+    "reader_local": "Dùng giọng nói trên thiết bị. Văn bản chỉ ở trong trình duyệt này.",
+    "reader_selection": "Đọc phần đã chọn bằng VoiceStudio",
+    "reader_empty": "Không tìm thấy văn bản đọc được. Mở email hoặc bài viết, hoặc chọn đoạn muốn nghe.",
+    "reader_failed": "Không thể đọc thẻ này. Hãy thử trang web thông thường hoặc chọn văn bản. Không hỗ trợ trang nội bộ Chrome.",
+    "reader_no_voice": "Không tìm thấy giọng nói trên thiết bị. Cài giọng nói trong phần cài đặt giọng nói của hệ điều hành."
   }
 }

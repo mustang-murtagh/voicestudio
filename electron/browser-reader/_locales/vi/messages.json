@@ -1,0 +1,44 @@
+{
+  "chromeHint": {
+    "message": "Mở bản tin, câu trả lời của Claude hoặc bài viết trong Chrome. Nghe bằng VoiceStudio Reader mà không cần sao chép."
+  },
+  "localOnly": {
+    "message": "Dùng giọng nói trên thiết bị. Văn bản chỉ ở trong trình duyệt này."
+  },
+  "readSelection": {
+    "message": "Đọc phần đã chọn bằng VoiceStudio"
+  },
+  "readerEmpty": {
+    "message": "Không tìm thấy văn bản đọc được. Mở email hoặc bài viết, hoặc chọn đoạn muốn nghe."
+  },
+  "readerFailed": {
+    "message": "Không thể đọc thẻ này. Hãy thử trang web thông thường hoặc chọn văn bản. Không hỗ trợ trang nội bộ Chrome."
+  },
+  "noLocalVoice": {
+    "message": "Không tìm thấy giọng nói trên thiết bị. Cài giọng nói trong phần cài đặt giọng nói của hệ điều hành."
+  },
+  "readAloud": {
+    "message": "Đọc thành tiếng"
+  },
+  "script": {
+    "message": "Kịch bản"
+  },
+  "voice": {
+    "message": "Giọng"
+  },
+  "speed": {
+    "message": "Tốc độ"
+  },
+  "search": {
+    "message": "Tìm kiếm…"
+  },
+  "pause": {
+    "message": "Tạm dừng"
+  },
+  "resume": {
+    "message": "Tiếp tục"
+  },
+  "stop": {
+    "message": "Dừng lại"
+  }
+}

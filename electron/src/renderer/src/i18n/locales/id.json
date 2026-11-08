@@ -4584,5 +4584,20 @@
     "check_failed": "Pemeriksaan {{host}} tidak dapat diselesaikan. Detail ada di log penyiapan.",
     "check_unavailable": "Belum ada unduhan paket yang dapat diperiksa.",
     "connection_error": "Koneksi unduhan paket gagal. Lanjutkan untuk mencoba lagi; unduhan yang selesai tetap disimpan."
+  },
+  "sallyStudio": {
+    "title": "VoiceStudio · Sally",
+    "subtitle": "Suara lokal, dikte, dan audio untuk klien Anda.",
+    "read_aloud": "Baca nyaring",
+    "read_hint": "Tempel atau impor teks, pilih suara, lalu buat dan putar audio. Gunakan Cerita untuk dokumen yang lebih panjang.",
+    "save_mp3": "Simpan MP3",
+    "voiceover": "Buat sulih suara",
+    "reader_title": "VoiceStudio Reader",
+    "chrome_hint": "Buka buletin, balasan Claude, atau artikel di Chrome. Dengarkan dengan VoiceStudio Reader tanpa menyalin.",
+    "reader_local": "Menggunakan suara perangkat. Teks tetap di browser ini.",
+    "reader_selection": "Baca pilihan di VoiceStudio",
+    "reader_empty": "Tidak ditemukan teks yang dapat dibaca. Buka email atau artikel, atau pilih bagian yang ingin didengar.",
+    "reader_failed": "Tab ini tidak dapat dibaca. Coba halaman web biasa atau pilih teks. Halaman internal Chrome tidak didukung.",
+    "reader_no_voice": "Tidak ditemukan suara perangkat. Instal suara melalui pengaturan ucapan sistem operasi."
   }
 }

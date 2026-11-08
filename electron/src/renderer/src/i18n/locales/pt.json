@@ -4586,5 +4586,20 @@
     "check_failed": "Não foi possível concluir a verificação de {{host}}. Os detalhes estão no registro da instalação.",
     "check_unavailable": "Ainda não há um download de pacote disponível para verificar.",
     "connection_error": "A conexão de download do pacote falhou. Retome para tentar novamente; os downloads concluídos são preservados."
+  },
+  "sallyStudio": {
+    "title": "VoiceStudio · Sally",
+    "subtitle": "Vozes locais, ditado e áudio para os seus clientes.",
+    "read_aloud": "Ler em voz alta",
+    "read_hint": "Cole ou importe texto, escolha uma voz e gere e reproduza o áudio. Use Histórias para documentos mais longos.",
+    "save_mp3": "Guardar MP3",
+    "voiceover": "Criar uma narração",
+    "reader_title": "VoiceStudio Reader",
+    "chrome_hint": "Abra uma newsletter, uma resposta do Claude ou um artigo no Chrome. Ouça com o VoiceStudio Reader sem copiar.",
+    "reader_local": "Usa vozes do dispositivo. O texto fica neste navegador.",
+    "reader_selection": "Ler seleção no VoiceStudio",
+    "reader_empty": "Não foi encontrado texto legível. Abra um email ou artigo, ou selecione o trecho que quer ouvir.",
+    "reader_failed": "Não é possível ler este separador. Tente uma página web normal ou selecione texto. As páginas internas do Chrome não são suportadas.",
+    "reader_no_voice": "Não foram encontradas vozes locais. Instale uma voz nas definições de fala do sistema operativo."
   }
 }

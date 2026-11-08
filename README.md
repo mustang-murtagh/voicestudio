@@ -1,4 +1,5 @@
 <div align="center">
+  <p><strong>Sally's fork:</strong> <a href="docs/sally-voice-studio.md">Mac and browser setup, local voices, dictation and MP3 learning audio</a>.</p>
   <h1><sub><img src="docs/logo.png" alt="" width="36" height="36" /></sub> VoiceStudio</h1>
   <p>
     <a href="https://trendshift.io/repositories/28176?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-28176" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/repositories/28176" alt="Trendshift badge showing where VoiceStudio ranks among trending repositories" width="220" height="48" /></a>

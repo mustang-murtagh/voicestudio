@@ -1,0 +1,44 @@
+{
+  "chromeHint": {
+    "message": "افتح نشرة بريدية أو رد Claude أو مقالة في Chrome، واستمع باستخدام VoiceStudio Reader دون نسخ."
+  },
+  "localOnly": {
+    "message": "يستخدم أصوات الجهاز. يبقى النص في هذا المتصفح."
+  },
+  "readSelection": {
+    "message": "قراءة التحديد في VoiceStudio"
+  },
+  "readerEmpty": {
+    "message": "لم يُعثر على نص قابل للقراءة. افتح رسالة أو مقالة، أو حدد المقطع المطلوب."
+  },
+  "readerFailed": {
+    "message": "تعذرت قراءة علامة التبويب. جرّب صفحة ويب عادية أو حدد مقطعًا. صفحات Chrome الداخلية غير مدعومة."
+  },
+  "noLocalVoice": {
+    "message": "لم يُعثر على أصوات على الجهاز. ثبّت صوتًا من إعدادات النطق في نظام التشغيل."
+  },
+  "readAloud": {
+    "message": "القراءة بصوت عالٍ"
+  },
+  "script": {
+    "message": "النص"
+  },
+  "voice": {
+    "message": "الصوت"
+  },
+  "speed": {
+    "message": "السرعة"
+  },
+  "search": {
+    "message": "بحث…"
+  },
+  "pause": {
+    "message": "وقفة"
+  },
+  "resume": {
+    "message": "استئناف"
+  },
+  "stop": {
+    "message": "توقف"
+  }
+}

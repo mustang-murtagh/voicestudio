@@ -1,0 +1,44 @@
+{
+  "chromeHint": {
+    "message": "Buka buletin, balasan Claude, atau artikel di Chrome. Dengarkan dengan VoiceStudio Reader tanpa menyalin."
+  },
+  "localOnly": {
+    "message": "Menggunakan suara perangkat. Teks tetap di browser ini."
+  },
+  "readSelection": {
+    "message": "Baca pilihan di VoiceStudio"
+  },
+  "readerEmpty": {
+    "message": "Tidak ditemukan teks yang dapat dibaca. Buka email atau artikel, atau pilih bagian yang ingin didengar."
+  },
+  "readerFailed": {
+    "message": "Tab ini tidak dapat dibaca. Coba halaman web biasa atau pilih teks. Halaman internal Chrome tidak didukung."
+  },
+  "noLocalVoice": {
+    "message": "Tidak ditemukan suara perangkat. Instal suara melalui pengaturan ucapan sistem operasi."
+  },
+  "readAloud": {
+    "message": "Baca nyaring"
+  },
+  "script": {
+    "message": "Naskah"
+  },
+  "voice": {
+    "message": "Suara"
+  },
+  "speed": {
+    "message": "Kecepatan"
+  },
+  "search": {
+    "message": "Cari…"
+  },
+  "pause": {
+    "message": "Jeda"
+  },
+  "resume": {
+    "message": "Lanjutkan"
+  },
+  "stop": {
+    "message": "Berhenti"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "chromeHint": {
+    "message": "Chrome’da bir bülten, Claude yanıtı veya makale açın. Kopyalamadan VoiceStudio Reader ile dinleyin."
+  },
+  "localOnly": {
+    "message": "Cihazdaki sesleri kullanır. Metniniz bu tarayıcıda kalır."
+  },
+  "readSelection": {
+    "message": "Seçimi VoiceStudio ile oku"
+  },
+  "readerEmpty": {
+    "message": "Okunabilir metin bulunamadı. Bir e-posta veya makale açın ya da dinlemek istediğiniz bölümü seçin."
+  },
+  "readerFailed": {
+    "message": "Bu sekme okunamıyor. Normal bir web sayfası deneyin veya metin seçin. Chrome’un dahili sayfaları desteklenmez."
+  },
+  "noLocalVoice": {
+    "message": "Cihazda ses bulunamadı. İşletim sisteminin konuşma ayarlarından bir ses yükleyin."
+  },
+  "readAloud": {
+    "message": "Sesli oku"
+  },
+  "script": {
+    "message": "Metin"
+  },
+  "voice": {
+    "message": "Ses"
+  },
+  "speed": {
+    "message": "Hız"
+  },
+  "search": {
+    "message": "Ara…"
+  },
+  "pause": {
+    "message": "Duraklat"
+  },
+  "resume": {
+    "message": "Sürdür"
+  },
+  "stop": {
+    "message": "Durdur"
+  }
+}

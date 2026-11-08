@@ -4584,5 +4584,20 @@
     "check_failed": "无法完成对 {{host}} 的检查。详情请查看安装日志。",
     "check_unavailable": "目前还没有可供检查的软件包下载。",
     "connection_error": "软件包下载连接失败。请继续安装以重试；已完成的下载会保留。"
+  },
+  "sallyStudio": {
+    "title": "VoiceStudio · Sally",
+    "subtitle": "为客户提供本地语音、听写和音频。",
+    "read_aloud": "朗读",
+    "read_hint": "粘贴或导入文本，选择声音，然后生成并播放音频。较长的文档请使用故事功能。",
+    "save_mp3": "保存 MP3",
+    "voiceover": "创建配音",
+    "reader_title": "VoiceStudio Reader",
+    "chrome_hint": "在 Chrome 中打开邮件简报、Claude 回复或文章，无需复制即可使用 VoiceStudio Reader 收听。",
+    "reader_local": "使用设备本地语音。文本仅保留在此浏览器中。",
+    "reader_selection": "在 VoiceStudio 中朗读选中内容",
+    "reader_empty": "未找到可朗读的文本。请打开邮件或文章，或选中要收听的段落。",
+    "reader_failed": "无法朗读此标签页。请尝试普通网页或选中一段文字。不支持 Chrome 内部页面。",
+    "reader_no_voice": "未找到设备本地语音。请在操作系统的语音设置中安装声音。"
   }
 }

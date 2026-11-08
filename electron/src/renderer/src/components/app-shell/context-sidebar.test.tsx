@@ -20,9 +20,23 @@ vi.mock('@/features/clone/voices-sidebar', () => ({
 import { ContextSidebar } from './context-sidebar';
 
 beforeEach(() => {
+  route.pathname = '/clone';
   workspace.libraryOpen = false;
   workspace.libraryTab = 'voices';
   setWorkspace.mockClear();
+});
+
+it('leaves the task home room for its cards', () => {
+  route.pathname = '/';
+  const view = render(<ContextSidebar />);
+  expect(view.container).toBeEmptyDOMElement();
+});
+
+it('offers saved voices beside Read aloud', () => {
+  route.pathname = '/listen';
+  workspace.libraryOpen = true;
+  render(<ContextSidebar />);
+  expect(screen.getByText('Voice library')).toBeVisible();
 });
 
 it('reopens a collapsed library pane when a library shortcut opens it', () => {
