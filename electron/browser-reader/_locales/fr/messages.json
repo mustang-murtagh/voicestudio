@@ -1,0 +1,44 @@
+{
+  "chromeHint": {
+    "message": "Ouvrez une newsletter, une réponse Claude ou un article dans Chrome. Écoutez avec VoiceStudio Reader sans copier."
+  },
+  "localOnly": {
+    "message": "Utilise les voix de votre appareil. Le texte reste dans ce navigateur."
+  },
+  "readSelection": {
+    "message": "Lire la sélection dans VoiceStudio"
+  },
+  "readerEmpty": {
+    "message": "Aucun texte lisible trouvé. Ouvrez un e-mail ou un article, ou sélectionnez le passage à écouter."
+  },
+  "readerFailed": {
+    "message": "Impossible de lire cet onglet. Essayez une page web classique ou sélectionnez du texte. Les pages internes de Chrome ne sont pas prises en charge."
+  },
+  "noLocalVoice": {
+    "message": "Aucune voix locale trouvée. Installez une voix dans les réglages vocaux de votre système."
+  },
+  "readAloud": {
+    "message": "Lire à voix haute"
+  },
+  "script": {
+    "message": "Scénario"
+  },
+  "voice": {
+    "message": "Voix"
+  },
+  "speed": {
+    "message": "Vitesse"
+  },
+  "search": {
+    "message": "Rechercher…"
+  },
+  "pause": {
+    "message": "Pause"
+  },
+  "resume": {
+    "message": "Reprendre"
+  },
+  "stop": {
+    "message": "Arrêter"
+  }
+}

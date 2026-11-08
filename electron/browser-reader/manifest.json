@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "VoiceStudio Reader",
+  "version": "0.1.0",
+  "description": "__MSG_localOnly__",
+  "default_locale": "en",
+  "permissions": ["activeTab", "scripting", "tts", "storage", "contextMenus"],
+  "action": { "default_popup": "popup.html", "default_title": "VoiceStudio Reader" },
+  "background": { "service_worker": "background.mjs", "type": "module" }
+}

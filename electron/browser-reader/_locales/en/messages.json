@@ -1,0 +1,44 @@
+{
+  "chromeHint": {
+    "message": "Open a newsletter, Claude reply or article in Chrome. Listen with VoiceStudio Reader without copying."
+  },
+  "localOnly": {
+    "message": "Uses on-device voices. Your text stays in this browser."
+  },
+  "readSelection": {
+    "message": "Read selection in VoiceStudio"
+  },
+  "readerEmpty": {
+    "message": "No readable text found. Open an email or article, or select the passage you want to hear."
+  },
+  "readerFailed": {
+    "message": "Cannot read this tab. Try an ordinary web page or select a passage. Chrome internal pages are not supported."
+  },
+  "noLocalVoice": {
+    "message": "No on-device voices found. Install a voice in your operating system’s speech settings."
+  },
+  "readAloud": {
+    "message": "Read aloud"
+  },
+  "script": {
+    "message": "Script"
+  },
+  "voice": {
+    "message": "Voice"
+  },
+  "speed": {
+    "message": "Speed"
+  },
+  "search": {
+    "message": "Search…"
+  },
+  "pause": {
+    "message": "Pause"
+  },
+  "resume": {
+    "message": "Resume"
+  },
+  "stop": {
+    "message": "Stop"
+  }
+}

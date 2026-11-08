@@ -4591,6 +4591,13 @@
     "read_aloud": "소리 내어 읽기",
     "read_hint": "텍스트를 붙여넣거나 가져오고 음성을 선택한 다음 오디오를 생성하고 재생하세요. 긴 문서에는 스토리를 사용하세요.",
     "save_mp3": "MP3 저장",
-    "voiceover": "내레이션 만들기"
+    "voiceover": "내레이션 만들기",
+    "reader_title": "VoiceStudio Reader",
+    "chrome_hint": "Chrome에서 뉴스레터, Claude 답변 또는 기사를 여세요. 복사 없이 VoiceStudio Reader로 들을 수 있습니다.",
+    "reader_local": "기기의 음성을 사용합니다. 텍스트는 이 브라우저에만 남습니다.",
+    "reader_selection": "선택한 텍스트를 VoiceStudio로 읽기",
+    "reader_empty": "읽을 수 있는 텍스트가 없습니다. 이메일이나 기사를 열거나 듣고 싶은 부분을 선택하세요.",
+    "reader_failed": "이 탭을 읽을 수 없습니다. 일반 웹페이지를 열거나 텍스트를 선택하세요. Chrome 내부 페이지는 지원하지 않습니다.",
+    "reader_no_voice": "기기 내 음성이 없습니다. 운영체제의 음성 설정에서 음성을 설치하세요."
   }
 }

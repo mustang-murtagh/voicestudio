@@ -4591,6 +4591,13 @@
     "read_aloud": "Read aloud",
     "read_hint": "Paste or import text, choose a voice, then generate and play the audio. Use Stories for longer documents.",
     "save_mp3": "Save MP3",
-    "voiceover": "Create a voiceover"
+    "voiceover": "Create a voiceover",
+    "reader_title": "VoiceStudio Reader",
+    "chrome_hint": "Open a newsletter, Claude reply or article in Chrome. Listen with VoiceStudio Reader without copying.",
+    "reader_local": "Uses on-device voices. Your text stays in this browser.",
+    "reader_selection": "Read selection in VoiceStudio",
+    "reader_empty": "No readable text found. Open an email or article, or select the passage you want to hear.",
+    "reader_failed": "Cannot read this tab. Try an ordinary web page or select a passage. Chrome internal pages are not supported.",
+    "reader_no_voice": "No on-device voices found. Install a voice in your operating system’s speech settings."
   }
 }

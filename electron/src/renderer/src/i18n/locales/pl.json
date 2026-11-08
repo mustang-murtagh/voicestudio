@@ -4619,6 +4619,13 @@
     "read_aloud": "Czytaj na głos",
     "read_hint": "Wklej lub zaimportuj tekst, wybierz głos, a następnie wygeneruj i odtwórz dźwięk. Do dłuższych dokumentów użyj Opowieści.",
     "save_mp3": "Zapisz MP3",
-    "voiceover": "Utwórz narrację"
+    "voiceover": "Utwórz narrację",
+    "reader_title": "VoiceStudio Reader",
+    "chrome_hint": "Otwórz newsletter, odpowiedź Claude lub artykuł w Chrome. Słuchaj przez VoiceStudio Reader bez kopiowania.",
+    "reader_local": "Korzysta z głosów urządzenia. Tekst pozostaje w tej przeglądarce.",
+    "reader_selection": "Czytaj zaznaczenie w VoiceStudio",
+    "reader_empty": "Nie znaleziono tekstu do odczytu. Otwórz e-mail lub artykuł albo zaznacz fragment do odsłuchania.",
+    "reader_failed": "Nie można odczytać tej karty. Otwórz zwykłą stronę lub zaznacz tekst. Wewnętrzne strony Chrome nie są obsługiwane.",
+    "reader_no_voice": "Nie znaleziono lokalnych głosów. Zainstaluj głos w ustawieniach mowy systemu operacyjnego."
   }
 }

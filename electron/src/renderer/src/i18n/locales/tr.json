@@ -4591,6 +4591,13 @@
     "read_aloud": "Sesli oku",
     "read_hint": "Metni yapıştırın veya içe aktarın, bir ses seçin, ardından sesi oluşturup dinleyin. Uzun belgeler için Hikâyeler kullanın.",
     "save_mp3": "MP3 kaydet",
-    "voiceover": "Seslendirme oluştur"
+    "voiceover": "Seslendirme oluştur",
+    "reader_title": "VoiceStudio Reader",
+    "chrome_hint": "Chrome’da bir bülten, Claude yanıtı veya makale açın. Kopyalamadan VoiceStudio Reader ile dinleyin.",
+    "reader_local": "Cihazdaki sesleri kullanır. Metniniz bu tarayıcıda kalır.",
+    "reader_selection": "Seçimi VoiceStudio ile oku",
+    "reader_empty": "Okunabilir metin bulunamadı. Bir e-posta veya makale açın ya da dinlemek istediğiniz bölümü seçin.",
+    "reader_failed": "Bu sekme okunamıyor. Normal bir web sayfası deneyin veya metin seçin. Chrome’un dahili sayfaları desteklenmez.",
+    "reader_no_voice": "Cihazda ses bulunamadı. İşletim sisteminin konuşma ayarlarından bir ses yükleyin."
   }
 }

@@ -41,15 +41,21 @@ The home screen offers five starting points:
 
 | Task | Workflow |
 | --- | --- |
-| Listen to text | Open **Read aloud**, choose a saved voice or reference, paste text or use Import, generate, then play. The existing player supports playback controls. Use Stories for long documents. |
+| Listen to text | For Chrome newsletters, Claude replies and articles, install [VoiceStudio Reader](../electron/browser-reader/README.md) and click its icon to preview and read the page without copying. For audio in a saved/cloned voice, open **Read aloud**, choose a saved voice or reference, import/paste text, generate, then play. Use Stories for long documents. |
 | Create a voiceover | Open **Create a voiceover**, record/upload a voice reference, save the profile, write the script and generate. **Save MP3** produces a real 192 kbps MP3; **Save as…** retains the original WAV. Both work in desktop and browser modes. |
 | Dictate | Open Transcriptions to record or transcribe and copy the resulting text. On the Mac desktop app, use Settings → Models → Dictation to enable the floating recorder/global shortcut and target-app insertion. Browser tabs cannot insert into unrelated desktop applications. |
 | Create client voices | Open Voice Design, choose supported language/accent and voice traits, preview and save a named profile. Availability and accent quality depend on the installed engine. |
 | Create learning audio | Use Stories for longer scripts, saved client voices, sections and MP3 exports. Use Audiobooks for chapter-based material. |
 
-Reading from another app currently means copying the text into Read aloud or
-importing a document. This build does not automatically inspect other apps'
-screens or add a browser extension. Text/Markdown import works in both interfaces;
+The optional Chrome extension reads an open Gmail message, the latest completed
+Claude reply, an article or selected text using on-device system voices. It
+offers voice choice, speed, pause/resume and stop; it does not need a backend.
+It reads only on invocation and does not scan the mailbox in the background.
+It does not use Sally's clone or export MP3; those stay in VoiceStudio.
+
+Reading from native Mac apps currently means copying text into Read aloud or
+importing a document. This build does not inspect other apps' screens.
+Text/Markdown import works in both interfaces;
 PDF/EPUB import uses the local backend. Word document import currently requires
 the desktop app. Scanned PDFs may need OCR elsewhere first.
 
@@ -81,8 +87,9 @@ weights in the app's local data storage, not in this public source repository.
 
 ## Validation and remaining checks
 
-The fork adds the start screen, Read aloud entry point, browser audio downloads
-and MP3 saves for current and saved takes. The underlying local speech engines,
+The fork adds the start screen, Read aloud entry point, browser audio downloads,
+MP3 saves for current and saved takes, and the optional Chrome reader.
+The underlying local speech engines,
 voice consent, import, voice design and native dictation are inherited from
 VoiceStudio; they have not been replaced with mocked implementations.
 

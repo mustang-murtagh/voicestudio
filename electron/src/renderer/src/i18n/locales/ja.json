@@ -4591,6 +4591,13 @@
     "read_aloud": "読み上げ",
     "read_hint": "テキストを貼り付けるか読み込み、声を選んで音声を生成・再生します。長い文書にはストーリーを使用してください。",
     "save_mp3": "MP3を保存",
-    "voiceover": "ナレーションを作成"
+    "voiceover": "ナレーションを作成",
+    "reader_title": "VoiceStudio Reader",
+    "chrome_hint": "Chromeでニュースレター、Claudeの返信、記事を開きます。コピーせずにVoiceStudio Readerで聞けます。",
+    "reader_local": "端末内の音声を使用します。テキストはこのブラウザー内に保持されます。",
+    "reader_selection": "選択範囲をVoiceStudioで読み上げ",
+    "reader_empty": "読み上げ可能なテキストがありません。メールや記事を開くか、聞きたい部分を選択してください。",
+    "reader_failed": "このタブは読み上げできません。通常のウェブページを開くか、文章を選択してください。Chrome内部のページは非対応です。",
+    "reader_no_voice": "端末内の音声がありません。OSの音声設定で音声をインストールしてください。"
   }
 }

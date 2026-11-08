@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>VoiceStudio Reader</title><link rel="stylesheet" href="popup.css"></head>
+<body>
+  <h1>VoiceStudio Reader</h1>
+  <p data-msg="chromeHint"></p>
+  <p id="source"></p>
+  <label for="preview" data-msg="script"></label>
+  <textarea id="preview" rows="7" maxlength="100000" dir="auto"></textarea>
+  <p id="status" role="status" aria-live="polite"></p>
+  <fieldset><legend data-msg="voice"></legend>
+    <input id="voice-search" type="search" data-msg-placeholder="search">
+    <div id="voices"></div>
+  </fieldset>
+  <label for="rate"><span data-msg="speed"></span> <output id="rate-value">1×</output></label>
+  <input id="rate" type="range" min="0.5" max="2" step="0.1" value="1">
+  <div class="controls">
+    <button id="read" disabled data-msg="readAloud"></button>
+    <button id="pause" data-msg="pause"></button>
+    <button id="resume" data-msg="resume"></button>
+    <button id="stop" data-msg="stop"></button>
+  </div>
+  <small data-msg="localOnly"></small>
+  <script type="module" src="popup.mjs"></script>
+</body></html>

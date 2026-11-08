@@ -1,0 +1,44 @@
+{
+  "chromeHint": {
+    "message": "Open een nieuwsbrief, Claude-antwoord of artikel in Chrome. Luister met VoiceStudio Reader zonder te kopiëren."
+  },
+  "localOnly": {
+    "message": "Gebruikt stemmen op je apparaat. Je tekst blijft in deze browser."
+  },
+  "readSelection": {
+    "message": "Selectie voorlezen in VoiceStudio"
+  },
+  "readerEmpty": {
+    "message": "Geen leesbare tekst gevonden. Open een e-mail of artikel, of selecteer de passage die je wilt horen."
+  },
+  "readerFailed": {
+    "message": "Dit tabblad kan niet worden gelezen. Probeer een gewone webpagina of selecteer tekst. Interne Chrome-pagina’s worden niet ondersteund."
+  },
+  "noLocalVoice": {
+    "message": "Geen lokale stemmen gevonden. Installeer een stem via de spraakinstellingen van je besturingssysteem."
+  },
+  "readAloud": {
+    "message": "Voorlezen"
+  },
+  "script": {
+    "message": "Script"
+  },
+  "voice": {
+    "message": "Stem"
+  },
+  "speed": {
+    "message": "Snelheid"
+  },
+  "search": {
+    "message": "Zoek…"
+  },
+  "pause": {
+    "message": "Pauze"
+  },
+  "resume": {
+    "message": "Hervatten"
+  },
+  "stop": {
+    "message": "Stop"
+  }
+}

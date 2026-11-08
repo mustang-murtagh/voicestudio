@@ -15,7 +15,7 @@ const tasks = [
   {
     to: '/listen',
     title: 'sallyStudio.read_aloud',
-    description: 'sallyStudio.read_hint',
+    description: 'sallyStudio.chrome_hint',
     icon: HeadphonesIcon,
   },
   {
@@ -75,6 +75,14 @@ export function SallyStudio() {
             ))}
           </div>
           <div className="flex flex-wrap gap-5 text-sm text-primary">
+            <a
+              href="https://github.com/mustang-murtagh/voicestudio/blob/sally/local-voice-workflows/electron/browser-reader/README.md"
+              target="_blank"
+              rel="noreferrer"
+              className="hover:underline"
+            >
+              {t('sallyStudio.reader_title')}
+            </a>
             <Link to="/personas" className="hover:underline">
               {t('nav.saved')}
             </Link>

@@ -1,0 +1,44 @@
+{
+  "chromeHint": {
+    "message": "Chromeでニュースレター、Claudeの返信、記事を開きます。コピーせずにVoiceStudio Readerで聞けます。"
+  },
+  "localOnly": {
+    "message": "端末内の音声を使用します。テキストはこのブラウザー内に保持されます。"
+  },
+  "readSelection": {
+    "message": "選択範囲をVoiceStudioで読み上げ"
+  },
+  "readerEmpty": {
+    "message": "読み上げ可能なテキストがありません。メールや記事を開くか、聞きたい部分を選択してください。"
+  },
+  "readerFailed": {
+    "message": "このタブは読み上げできません。通常のウェブページを開くか、文章を選択してください。Chrome内部のページは非対応です。"
+  },
+  "noLocalVoice": {
+    "message": "端末内の音声がありません。OSの音声設定で音声をインストールしてください。"
+  },
+  "readAloud": {
+    "message": "読み上げ"
+  },
+  "script": {
+    "message": "台本"
+  },
+  "voice": {
+    "message": "音声"
+  },
+  "speed": {
+    "message": "速度"
+  },
+  "search": {
+    "message": "検索…"
+  },
+  "pause": {
+    "message": "一時停止"
+  },
+  "resume": {
+    "message": "再開"
+  },
+  "stop": {
+    "message": "停止"
+  }
+}

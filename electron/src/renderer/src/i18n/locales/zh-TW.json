@@ -4591,6 +4591,13 @@
     "read_aloud": "朗讀",
     "read_hint": "貼上或匯入文字，選擇聲音，然後產生並播放音訊。較長的文件請使用故事功能。",
     "save_mp3": "儲存 MP3",
-    "voiceover": "建立配音"
+    "voiceover": "建立配音",
+    "reader_title": "VoiceStudio Reader",
+    "chrome_hint": "在 Chrome 中開啟電子報、Claude 回覆或文章，不需複製即可使用 VoiceStudio Reader 聆聽。",
+    "reader_local": "使用裝置本機語音。文字只保留在此瀏覽器中。",
+    "reader_selection": "在 VoiceStudio 中朗讀選取內容",
+    "reader_empty": "找不到可朗讀的文字。請開啟郵件或文章，或選取要聆聽的段落。",
+    "reader_failed": "無法朗讀此分頁。請嘗試一般網頁或選取一段文字。不支援 Chrome 內部頁面。",
+    "reader_no_voice": "找不到裝置本機語音。請在作業系統的語音設定中安裝聲音。"
   }
 }
